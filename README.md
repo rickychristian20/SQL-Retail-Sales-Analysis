@@ -46,11 +46,15 @@ The dataset contains retail transaction records including:
 - Customer Rating
 - Returned Orders
 
+Download Dataset here :
+- [RetailIQ_PowerBI.csv](dataset/RetailIQ_PowerBI.csv)
 ---
 
 ## 📊 Key Performance Indicators (KPI)
 
 - Total Sales
+  ![Total Sales Query](images/sql_01_total_sales.png)
+  
 - Total Profit
 - Total Orders
 - Total Customers
