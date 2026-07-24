@@ -74,9 +74,8 @@ Dashboard includes:
 - Interactive Filters
 
 <p align="center">
-  <img src="images/Dashboard Retail Sales.png" alt="Dashboard Retail Sales" width="100%">
+  <img src="dashboard/Dashboard%20Retail%20Sales.png" alt="Retail Sales Dashboard" width="100%">
 </p>
-
 ---
 
 ## 💡 Key Insights
