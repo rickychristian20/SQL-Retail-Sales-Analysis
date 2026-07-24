@@ -114,10 +114,20 @@ SQL-Retail-Sales-Analysis/
 - Data Visualization
 
 ---
+## 📌 Business Recommendations
+
+Based on the analysis, the following recommendations can help improve business performance:
+
+- Increase inventory and marketing efforts for high-performing products such as **Laptop**, as they generate the highest revenue and profit.
+- Investigate the high return rate in **Karnataka** to identify issues related to product quality, delivery, or customer expectations.
+- Develop customer loyalty programs targeting high-value customers to encourage repeat purchases.
+- Focus marketing campaigns on customers aged **30–39**, as they contribute the highest sales and profit.
+- Improve sales strategies for low-performing products through promotions or product bundling.
+- Monitor product return trends regularly to reduce return rates and improve customer satisfaction.
 
 ## 👨‍💻 Author
 
-**Ricky Christian**
+**Ricky Christian Simatupang - Palembang, Indonesia**
 
 Aspiring Data Analyst
 
