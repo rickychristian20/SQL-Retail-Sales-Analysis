@@ -59,7 +59,9 @@ Download Dataset here :
 - Total Quantity
 
 ## 📊 Customer Analysis
-![Customer Performance](images/Customer%20Performance%20by%20Age%20Group.png)
+<p align="center">
+  <img src="images/Customer%20Performance%20by%20Age%20Group.png" alt="Dashboard Retail Sales">
+</p>
 ---
 
 ## 📈 Dashboard
