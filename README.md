@@ -59,7 +59,7 @@ Download Dataset here :
 - Total Quantity
 
 ## 📊 Customer Analysis
-![Customer](images/sql_customer performance by age group.png)
+![Customer Performance](images/Customer%20Performance%20by%20Age%20Group.png)
 ---
 
 ## 📈 Dashboard
