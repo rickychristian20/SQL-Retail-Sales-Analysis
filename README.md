@@ -54,7 +54,7 @@ Download Dataset here :
 
 - Total Sales
 - Total Profit
-  ![Nama Alt Gambar](images/Total%20Profit.png)
+  !Total Profit](images/Total%20Profit.png)
 - Total Orders
 - Total Customers
 - Total Quantity
