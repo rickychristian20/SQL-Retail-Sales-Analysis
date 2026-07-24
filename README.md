@@ -121,6 +121,6 @@ SQL-Retail-Sales-Analysis/
 
 Aspiring Data Analyst
 
-LinkedIn: *(Add your LinkedIn URL here)*
+LinkedIn: https://www.linkedin.com/in/ricky-simatupang/
 
 GitHub: https://github.com/rickychristian20
