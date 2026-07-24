@@ -53,16 +53,13 @@ Download Dataset here :
 ## 📊 Key Performance Indicators (KPI)
 
 - Total Sales
-  ![Total Sales Query](images/sql_01_total_sales.png)
-  
 - Total Profit
 - Total Orders
 - Total Customers
 - Total Quantity
-- Average Customer Rating
-- Average Discount
-- Return Rate
 
+## 📊 Customer Analysis
+![Customer](images/sql_customer performance by age group.png)
 ---
 
 ## 📈 Dashboard
