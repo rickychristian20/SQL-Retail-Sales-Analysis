@@ -54,7 +54,6 @@ Download Dataset here :
 
 - Total Sales
 - Total Profit
-  !Total Profit](images/Total%20Profit.png)
 - Total Orders
 - Total Customers
 - Total Quantity
@@ -98,10 +97,10 @@ Dashboard includes:
 ```text
 SQL-Retail-Sales-Analysis/
 │
+├── Image/
+├── dashboard/
 ├── dataset/
 ├── sql/
-├── dashboard/
-├── images/
 └── README.md
 ```
 
