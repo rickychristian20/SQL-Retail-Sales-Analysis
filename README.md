@@ -73,7 +73,9 @@ Dashboard includes:
 - Top Customers
 - Interactive Filters
 
-*(Dashboard screenshot will be added later.)*
+<p align="center">
+  <img src="images/Dashboard Retail Sales.png" alt="Dashboard Retail Sales" width="100%">
+</p>
 
 ---
 
