@@ -62,11 +62,11 @@ Download Dataset here :
   ![KPI](Image/KPI.png)
 
 ## 📊 Customer Analysis
-
-Top 10 Customer By Profit
 ## Top 10 Customer By Profit
 
-![Top Customer](Image/Top 10 Customer By Profit.png)
+![Top Customer](Image/Top-10-Customer-By-Profit.png)
+
+
 
 ## 📈 Dashboard
 
