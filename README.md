@@ -57,6 +57,7 @@ Download Dataset here :
 - Total Orders
 - Total Customers
 - Total Quantity
+  ![KPI](images/KPI.png)
 
 ## 📊 Customer Analysis
 <p align="center">
