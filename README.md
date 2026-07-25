@@ -70,6 +70,12 @@ Download Dataset here :
  
 ![New Customer](Image/new-customer.png)
 
+- Top quantity and Sales Product
+  
+![Query](Image/query-top-product.png)
+
+![hasil](Image/hasil-query-top-product.png)
+
 
 ## 📈 Dashboard
 
