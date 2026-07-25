@@ -62,10 +62,11 @@ Download Dataset here :
   ![KPI](Image/KPI.png)
 
 ## 📊 Customer Analysis
-<p align="center">
-  <img src="images/Customer%20Performance%20by%20Age%20Group.png" alt="Dashboard Retail Sales">
-</p>
----
+
+Top 10 Customer By Profit
+## Top 10 Customer By Profit
+
+![Top Customer](Image/Top 10 Customer By Profit.png)
 
 ## 📈 Dashboard
 
