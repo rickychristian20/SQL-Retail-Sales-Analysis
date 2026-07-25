@@ -82,17 +82,15 @@ Download Dataset here :
 Dashboard includes:
 
 - KPI Cards
-- Sales by State
+- Sales by Month
 - Top 5 Products
 - Sales by Payment Method
 - Monthly Sales & Profit Trend
 - Top Customers
 - Interactive Filters
 
-<p align="center">
-  <img src="dashboard/Dashboard%20Retail%20Sales.png" alt="Retail Sales Dashboard" width="100%">
-</p>
----
+![dahboard](Image/dashboard.png)
+
 
 ## 💡 Key Insights
 
