@@ -94,12 +94,10 @@ Dashboard includes:
 
 ## 💡 Key Insights
 
-- Laptop generated the highest sales revenue.
-- Maharashtra recorded the highest sales.
-- March recorded the highest monthly sales.
-- Sai Patla was the top customer by revenue.
-- Electronics generated the highest sales.
-- Karnataka had the highest return rate.
+- Performance         : Total sales reached 2.36B with 404M in profit across 50,000 orders and 8,957 customers.
+- Trends              : Monthly sales stayed steady between 189M–204M, peaking in July and dropping lowest in February.
+- Payments            : Payment method distribution is exceptionally balanced at roughly 19%-20% each.
+- Products & Customers: Laptops lead sales (367M), and Yatin Issac ranks highest in customer purchases (536K).
 
 ---
 
