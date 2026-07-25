@@ -89,7 +89,7 @@ Dashboard includes:
 - Top Customers
 - Interactive Filters
 
-![dahboard](Image/dashboard.png)
+![dahboard](dashboard/dashboard.png)
 
 
 ## 💡 Key Insights
