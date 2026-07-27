@@ -146,4 +146,6 @@ Aspiring Data Analyst
 
 LinkedIn: https://www.linkedin.com/in/ricky-simatupang/
 
+Tableau : https://public.tableau.com/shared/9TM9YRHJM?:display_count=n&:origin=viz_share_link
+
 GitHub: https://github.com/rickychristian20
